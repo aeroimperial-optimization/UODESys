@@ -23,7 +23,7 @@ Copyright 2017, M. Lakshmi.
 
 Licensed under the GNU General Public License, Version 3.0 (the "License"); you may not use this file except in compliance with the License. You should have received a copy of the License with this repository, in a file called LICENSE.txt. If this is not the case, you may obtain a copy of the License at [https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-**Disclaimer of warranty:** There is no warranty for the program, to the extent permitted by
+*Disclaimer of warranty:* There is no warranty for the program, to the extent permitted by
 applicable law.  Except when otherwise stated in writing the copyright
 holders and/or other parties provide the program "as is" without warranty
 of any kind, either expressed or implied, including, but not limited to,
@@ -32,7 +32,7 @@ purpose.  The entire risk as to the quality and performance of the program
 is with you.  Should the program prove defective, you assume the cost of
 all necessary servicing, repair or correction.
 
-**Limitation of liability:** In no event unless required by applicable law or agreed to in writing
+*Limitation of liability:* In no event unless required by applicable law or agreed to in writing
 will any copyright holder, or any other party who modifies and/or conveys
 the program as permitted above, be liable to you for damages, including any
 general, special, incidental or consequential damages arising out of the
