@@ -2,6 +2,8 @@
 
 An open-source MATLAB toolbox for the reduction of high-dimensional ODE systems to a low-dimensional, uncertain system.
 
+**Note:** This code is under very active development and will be subject to changes and improvements, so watch this space!
+
 ## Contents
 - [System requirements](#Requirements)
 - [License](#License)
