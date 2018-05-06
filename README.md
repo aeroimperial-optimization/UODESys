@@ -11,7 +11,7 @@ An open-source MATLAB toolbox for the reduction of high-dimensional ODE systems 
 
 ## System requirements<a name="Requirements"></a>
 
-In order to use QUINOPT, you will need:
+In order to use UODESys, you will need:
 
 1. A working version of [YALMIP](https://yalmip.github.io/), the MATLAB optimization modelling software by J. L&ouml;fberg
 2. A suitable SDP solver. Choices include [SeDuMi](https://github.com/sqlp/sedumi), [SDPT3](http://www.math.nus.edu.sg/~mattohkc/sdpt3.html), [SDPA](http://sdpa.sourceforge.net/), [Mosek](https://www.mosek.com/) (free for
